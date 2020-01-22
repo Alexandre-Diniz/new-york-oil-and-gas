@@ -1,0 +1,21 @@
+.header-text{
+    position: relative;
+    font-size: 22pt;
+    text-align: center;
+    color: #313131;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+}
+.header-sub-text{
+    font-size: 18pt;
+    text-align: center;
+    margin-top: -1%;
+    color: #313131;
+    justify-content: center;
+    align-items: center;
+}
+
+.P{
+    color: #313131;
+}
